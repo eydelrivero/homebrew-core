@@ -19,7 +19,7 @@ class ApacheSpark < Formula
   
   devel do
     url "http://apache.rediris.es/spark/spark-2.0.0-preview/spark-2.0.0-preview.tgz"
-    sha256 "iQEcBAABAgAGBQJXO8P7AAoJEHxsEF/8jtCJk20H/RW/OKh3tAitQvyfkiTRbNEYMpuGEgPxhkNZvIADmPt/e75G6whnuRWtFQxkAUGngyZ/TKrD46IchV6ys143o8ob3OtprgyqMKkziHw4FlkeH16Ku0Y6UqLyB0jgJzrVk1U755NN1FfDKNsWYPr0D5Hhu1hU9956DUi8+AlmwTJ7hzRDBItQunA2iI/au3AtkZKFa15GKgYm1Wptbnx97rN5Kz9E1rpLIrAYqREC+lPRbBsWYWEJXupR892/2SD0mA8E54WhAh/gy1Ky48g7taOcH3t7ZH3v+YMsw/zP+Kuk4lmYFpeU1iXbgKVyHUZYQisa9PWPFUMwyV1sK5CFJX4==aO08"
+    sha256 "038933abda726b219ebef1944fe6681e71400534c75a0c413fa3a098a56c9ce1"
   end
 
   test do
